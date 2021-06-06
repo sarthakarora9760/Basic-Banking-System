@@ -1,0 +1,2 @@
+# Basic-Banking-System
+This is a simple Banking System website made in order to accomplish the task given by The Sparks Foundation (Graduate rotational Internship Program) for web developer role, Batch-June 2021 Made by Sarthak Arora Linkedin- https://www.linkedin.com/in/sarthakarora1234/ Features:- 1.) Database with 10 dummy customers data linked. 2.) User can visit the website and transfer the money among customers through a list of active customers and can also view the transaction history.
